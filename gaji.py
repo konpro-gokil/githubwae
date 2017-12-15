@@ -1,4 +1,5 @@
 #BELAJAR
+#gaspol
 #Program Aplikasi Kalkulasi Gaji
 print("^^^^^^^^^^^^^^^^^^^^^^^^^")
 print("Program Kalkulasi Gaji")
